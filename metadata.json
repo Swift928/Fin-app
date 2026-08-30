@@ -1,0 +1,6 @@
+{
+  "name": "Institutional Portfolio Analytics",
+  "description": "Institutional quantitative portfolio analytics dashboard with Autonomous Agent Thesis Lab, Markowitz & Black-Litterman optimization, VaR/CVaR, GARCH, factor econometrics, macro stress testing, HMM regime switching, and Gemini AI quant research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
